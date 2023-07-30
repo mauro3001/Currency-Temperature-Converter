@@ -1,0 +1,17 @@
+
+a
+java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ñš˜š
+D
+java:S2189""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ÿ‡¨ñ™1
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(Çµí‘8 ¸š1
+_
+java:S1858"I"showInputDialog" returns a string, there's no need to call "toString()".(‹ÇÜØ
+7	java:S131""Add a default case to this switch.(Ñš˜š
+B
+java:S1125"'Remove the unnecessary boolean literal.(ßúß£ıÿÿÿÿ
+E	java:S108$")Either remove or fill this block of code.(®Ÿ¸ç8è‘¸š1
+D
+java:S11251"'Remove the unnecessary boolean literal.(“Êº¬8™ ¸š1
+E	java:S1087")Either remove or fill this block of code.(®Ÿ¸ç8š ¸š1
+h	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”¤áÀÿÿÿÿÿ

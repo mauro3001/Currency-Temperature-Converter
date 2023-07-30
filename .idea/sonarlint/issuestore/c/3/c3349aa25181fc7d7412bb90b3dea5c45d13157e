@@ -1,0 +1,13 @@
+
+e
+java:S1192"IDefine a constant instead of duplicating this literal " Celcius" 3 times.(´šØa8ÔÚ­¸š1
+X
+java:S2184"BCast one of the operands of this division operation to a "double".(ÆúŒï
+V
+java:S2184"@Cast one of the operands of this integer division to a "double".(ÆúŒï
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ıû›é
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ëúœ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ³°¤8áÚ­¸š1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»…¢Øúÿÿÿÿ8âÚ­¸š1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ş±á8ãÚ­¸š1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÙäÊäúÿÿÿÿ8äÚ­¸š1

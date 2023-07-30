@@ -1,0 +1,11 @@
+
+u
+java:S1192	"SDefine a constant instead of duplicating this literal " Pesos Colombianos" 5 times.(Û”Ôúùÿÿÿÿ8ñ…å·š1
+l
+java:S1192	"JDefine a constant instead of duplicating this literal "Tienes $ " 5 times.(Û”Ôúùÿÿÿÿ8ò…å·š1
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òŞœŠÿÿÿÿÿ
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ı¬8ƒ†å·š1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã–ã8‡†å·š1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜°òşÿÿÿÿ8çşö·š1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿé’Œúÿÿÿÿ8Š†å·š1
+j	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø¥³Û8Œ†å·š1
